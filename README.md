@@ -10,3 +10,8 @@ Initialize and Commit:
 4. Check the status of the repository with git status.
 5. Stage the new file using git add.
 6. Commit the change with a clear message using git commit -m.
+
+
+Task: 2
+
+Branching and Merging.
