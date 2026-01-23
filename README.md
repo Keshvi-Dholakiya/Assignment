@@ -20,7 +20,7 @@ This section demonstrates the basic usage of Git for version control, including 
 
 ---
 
-## 🐚 Shell Scripting
+##  Shell Scripting
 
 # Overview
 This section covers fundamental shell scripting concepts used for automating command-line tasks in a Unix/Linux environment.
